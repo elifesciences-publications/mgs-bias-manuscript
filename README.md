@@ -48,3 +48,5 @@ Versions already rendered to html can be seen at
 * [Analysis of the Brooks et al (2015) dataset](https://mikemc.github.io/mgs-bias-manuscript/analysis/brooks2015-analysis.html)
 * [Analysis of the Costea et al (2017) dataset](https://mikemc.github.io/mgs-bias-manuscript/analysis/costea2017-analysis.html)
 
+### This code is associated with the paper from McLaren et al., "Consistent and correctable bias in metagenomic sequencing experiments". eLife, 2019. http://dx.doi.org/10.7554/eLife.46923
+
